@@ -10,8 +10,8 @@
 		0A1234F12177924D00FAEA4E /* DateTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1234F02177924D00FAEA4E /* DateTableView.swift */; };
 		0A1D2924220A011600DE51B7 /* ChoosenDateController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1D2923220A011500DE51B7 /* ChoosenDateController.swift */; };
 		0A1D2926220B15C500DE51B7 /* Dates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1D2925220B15C400DE51B7 /* Dates.swift */; };
-		0A31FBA7223C788B006866AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A31FBA6223C788B006866AF /* Assets.xcassets */; };
 		0A60D52222343E17001681D7 /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A60D52122343E17001681D7 /* WeatherData.swift */; };
+		0A66889422540AD500A565BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A66889322540AD500A565BB /* Assets.xcassets */; };
 		0AAC14BF2215871A00BB0300 /* DataTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC14BE2215871A00BB0300 /* DataTableViewCell.swift */; };
 		0AC45C6B20F3A6C500F36233 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC45C6A20F3A6C500F36233 /* MainViewController.swift */; };
 		0AC45C7120F7CDF500F36233 /* NotificationsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC45C7020F7CDF500F36233 /* NotificationsVC.swift */; };
@@ -28,8 +28,8 @@
 		0A1234F02177924D00FAEA4E /* DateTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateTableView.swift; sourceTree = "<group>"; };
 		0A1D2923220A011500DE51B7 /* ChoosenDateController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChoosenDateController.swift; sourceTree = "<group>"; };
 		0A1D2925220B15C400DE51B7 /* Dates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dates.swift; sourceTree = "<group>"; };
-		0A31FBA6223C788B006866AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../PRACA LICENCJACKA/FreeHandlDay 3/Example/Example/Assets.xcassets"; sourceTree = "<group>"; };
 		0A60D52122343E17001681D7 /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
+		0A66889322540AD500A565BB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AAC14BE2215871A00BB0300 /* DataTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataTableViewCell.swift; sourceTree = "<group>"; };
 		0AC45C6A20F3A6C500F36233 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		0AC45C7020F7CDF500F36233 /* NotificationsVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotificationsVC.swift; sourceTree = "<group>"; };
@@ -130,7 +130,7 @@
 				0AC45C7020F7CDF500F36233 /* NotificationsVC.swift */,
 				A00456D41D8CD52E00AC2AAC /* Main.storyboard */,
 				A00456D91D8CD52E00AC2AAC /* LaunchScreen.storyboard */,
-				0A31FBA6223C788B006866AF /* Assets.xcassets */,
+				0A66889322540AD500A565BB /* Assets.xcassets */,
 				A00456DC1D8CD52E00AC2AAC /* Info.plist */,
 			);
 			path = Example;
@@ -200,7 +200,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A00456DB1D8CD52E00AC2AAC /* LaunchScreen.storyboard in Resources */,
-				0A31FBA7223C788B006866AF /* Assets.xcassets in Resources */,
+				0A66889422540AD500A565BB /* Assets.xcassets in Resources */,
 				A00456D61D8CD52E00AC2AAC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
